@@ -3,7 +3,7 @@
   font-size: 18px;
 }
 .dropdown-item:hover{
-  background-color: darkblue;
+  background-color: orange;
   color: white;
 }
 .navbar-brand {
