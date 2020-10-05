@@ -7,7 +7,7 @@
   font-size: 24px;
 }
 .bg-img {
-  background-image: url(./img/bg-1.png);
+  background-image: url(img/bg-1.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
