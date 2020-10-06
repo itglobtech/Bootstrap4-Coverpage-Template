@@ -8,7 +8,7 @@
 }
 .navbar-brand {
   /* font-family: 'Roboto', cursive; */
-  font-size: 20px;
+  font-size: 24px;
 }
 .bg-img {
   background-image: url(img/bg-1.png);
@@ -38,7 +38,9 @@
   #welcomeh1 {
     font-size: 2rem;
   }
+
 }
+
 
 /* Small devices (landscape phones, less than 768px) */
 @media (max-width: 823px) {
