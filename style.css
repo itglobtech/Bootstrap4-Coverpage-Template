@@ -20,9 +20,9 @@
 #welcomeh1 {
   font-size: 4rem;
   font-family: "Sansita Swashed", cursive;
-  color: rgb(195, 214, 216);
+  color: whitesmoke;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 150px;
   /* color:#FFC300; */
 }
 .wrapper {
